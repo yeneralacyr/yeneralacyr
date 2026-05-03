@@ -24,10 +24,6 @@
 - 🗣️ Scenario-based English learning systems  
 - 🎥 AI-powered live class assistants  
 
----
-
-## 🧠 Tech Stack
-
-```txt
-LLMs • NLP • Python • Supabase • Next.js • Expo
-Prompt Engineering • AI Agents • Automation
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yeneralacyr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+</p>
