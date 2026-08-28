@@ -12,6 +12,9 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeneralacyr&theme=tokyo-night&hide_border=true" />
 </p>
-### GitHub Katkı İstatistiklerim
 
-![snake animation](https://github.com/yeneralacyr/yeneralacyr/blob/output/github-contribution-grid-snake2.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yeneralacyr/yeneralacyr/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yeneralacyr/yeneralacyr/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yeneralacyr/yeneralacyr/output/github-contribution-grid-snake.svg">
+</picture>
