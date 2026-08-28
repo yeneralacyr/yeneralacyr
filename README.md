@@ -2,24 +2,56 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=900&center=true&vCenter=true&width=650&lines=indie+developer;vibe+coder;building+software+from+ideas;experimenting%2C+shipping%2C+improving"
-    alt="Typing SVG"
+    src="YOUR_TYPING_SVG_URL"
+    alt="typing animation"
   />
 </p>
 
 <p align="center">
-  I build small products, prototypes and tools around ideas I find interesting.
-  <br />
-  Mostly experimenting with software, AI and new ways of building.
+  indie developer / vibe coder
 </p>
-
-<br />
 
 <p align="center">
-  <code>idea → prototype → use it → break it → improve it → ship</code>
+  building small products, prototypes and things I want to exist
 </p>
 
-<br />
+<br>
+
+<p align="center">
+  <code>idea → prototype → use → break → fix → ship</code>
+</p>
+
+<br>
+
+<h3 align="center">stack</h3>
+
+<p align="center">
+  <code>TypeScript</code>
+  <code>JavaScript</code>
+  <code>Python</code>
+  <code>React</code>
+  <code>Electron</code>
+  <code>Unity</code>
+</p>
+
+<br>
+
+<h3 align="center">github</h3>
+
+<p align="center">
+  <img height="165" src="YOUR_GITHUB_STATS_URL" />
+  <img height="165" src="YOUR_TOP_LANGUAGES_URL" />
+</p>
+
+<br>
+
+<h3 align="center">currently playing</h3>
+
+<p align="center">
+  <img src="YOUR_SPOTIFY_CARD_URL" />
+</p>
+
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yeneralacyr/yeneralacyr/output/github-contribution-grid-snake-dark.svg">
