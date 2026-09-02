@@ -2,18 +2,6 @@
 
 <br>
 
-<h3 align="center">GitHub Stats</h3>
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-stats-extended.vercel.app/api?username=yeneralacyr&show_icons=true&hide_border=true&theme=github_dark"
-    alt="Yener's GitHub stats"
-  />
-</p>
-
-<br>
-
 <h3 align="center">Most Used Languages</h3>
 
 <p align="center">
@@ -31,6 +19,7 @@
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img
+      width="360"
       src="https://spotify-github-profile.kittinanx.com/api/view?uid=zlobs02rufbcuy53e83dcfcmd&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false"
       alt="Spotify currently playing"
     />
