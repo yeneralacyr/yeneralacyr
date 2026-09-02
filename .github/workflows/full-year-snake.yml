@@ -27,7 +27,6 @@ jobs:
       - name: Generate full year snake
         run: node .github/scripts/generate-full-year-snake.mjs
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
 
       - name: Publish SVG

@@ -25,7 +25,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/yeneralacyr/yeneralacyr/output/full-year-snake.svg?v=2"
+    src="https://raw.githubusercontent.com/yeneralacyr/yeneralacyr/output/full-year-snake.svg?v=3"
     alt="Full year GitHub contribution snake"
     width="100%"
   />
