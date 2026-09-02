@@ -1,12 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yener</h1>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%7C+Education+Builder;LLM+Engineer;EdTech+Innovator;Always+Shipping"
-    alt="Typing SVG"
-  />
-</p>
-
 <br>
 
 <h3 align="center">GitHub Stats</h3>
@@ -17,7 +10,13 @@
     src="https://github-stats-extended.vercel.app/api?username=yeneralacyr&show_icons=true&hide_border=true&theme=github_dark"
     alt="Yener's GitHub stats"
   />
+</p>
 
+<br>
+
+<h3 align="center">Most Used Languages</h3>
+
+<p align="center">
   <img
     height="165"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=yeneralacyr&layout=compact&hide_border=true&theme=github_dark"
