@@ -2,10 +2,8 @@ name: Generate Full Year Snake
 
 on:
   workflow_dispatch:
-
   schedule:
     - cron: "0 0 * * *"
-
   push:
     branches:
       - main
@@ -13,9 +11,14 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: full-year-snake
+  cancel-in-progress: true
+
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
       - name: Checkout repository
